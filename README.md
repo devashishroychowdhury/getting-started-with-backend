@@ -24,6 +24,8 @@ Your package.json file is created as shown below\.
 
 ![Server.js Code()](https://github.com/devashishroychowdhury/getting-started-with-backend/assets/100063820/4542548b-238b-443d-93c7-d056be03c1db)
 
+##### ***Navigate to this link to use the code*** https://github.com/devashishroychowdhury/getting-started-with-backend/blob/main/server.js
+
 ### Run the following code by using *'node index.js'* command in the terminal.
 ![Server.js Output()](https://github.com/devashishroychowdhury/getting-started-with-backend/assets/100063820/4af6fcc7-9b06-406c-af84-a9f69c641081)
 
